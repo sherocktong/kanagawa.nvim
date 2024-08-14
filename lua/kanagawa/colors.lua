@@ -31,7 +31,7 @@ local palette = {
 
     -- Fg and Comments
     oldWhite = "#C8C093",
-    fujiWhite = "#ccbd68",
+    fujiWhite = "#CCBD68",
     fujiGray = "#727169",
 
     oniViolet = "#957FB8",
@@ -90,12 +90,12 @@ local palette = {
     lotusGray = "#dcd7ba",
     lotusGray2 = "#716e61",
     lotusGray3 = "#8a8980",
-    lotusWhite0 = "#d5cea3",
+    lotusWhite0 = "#DC9B26",
     lotusWhite1 = "#dcd5ac",
-    lotusWhite2 = "#e5ddb0",
-    lotusWhite3 = "#f2ecbc",
-    lotusWhite4 = "#e7dba0",
-    lotusWhite5 = "#e4d794",
+    lotusWhite2 = "#DC9B30",
+    lotusWhite3 = "#F1AA34",
+    lotusWhite4 = "#E29F31",
+    lotusWhite5 = "#E9A433",
     lotusViolet1 = "#a09cac",
     lotusViolet2 = "#766b90",
     lotusViolet3 = "#c9cbd1",
