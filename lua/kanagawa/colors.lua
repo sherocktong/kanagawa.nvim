@@ -31,7 +31,7 @@ local palette = {
 
     -- Fg and Comments
     oldWhite = "#C8C093",
-    fujiWhite = "#DCD7BA",
+    fujiWhite = "#ccbd68",
     fujiGray = "#727169",
 
     oniViolet = "#957FB8",
